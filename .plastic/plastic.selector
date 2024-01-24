@@ -1,0 +1,4 @@
+repository "StamBY test task@SychCompany@cloud"
+  path "/"
+    br "/main"
+    co "/main"
